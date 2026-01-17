@@ -42,3 +42,5 @@ https://361do.booth.pm/items/6872180
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rebuildup&layout=compact)](https://github.com/Pranesh-2005/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=rebuildup)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
+[![Gitty Score](https://gitty-code.com/api/badge/rebuildup.png)](https://gitty-code.com/user/rebuildup)

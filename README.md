@@ -6,8 +6,14 @@ After Effects 向けのプラグイン・スクリプト開発と
 Web 制作を中心に活動しています
 
 ## ## Main Projects
-### ### my-web-2025
+
+### ### my-web-2026
 ポートフォリオ兼Web実験用のサイトです
+my-web-2025から移行中です
+
+https://rebuildup.dev
+
+[![my-web-2026](https://github-readme-stats-fast.vercel.app/api/pin/?username=rebuildup&repo=my-web-2026&show_owner=true)](https://github.com/rebuildup/my-web-2026)
 
 https://yusuke-kim.com
 

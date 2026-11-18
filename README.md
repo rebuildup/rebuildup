@@ -13,11 +13,11 @@ my-web-2025から移行中です
 
 https://rebuildup.dev
 
-[![my-web-2026](https://github-readme-stats-fast.vercel.app/api/pin/?username=rebuildup&repo=my-web-2026&show_owner=true)](https://github.com/rebuildup/my-web-2026)
+[![my-web-2026](https://rebuildup.dev/api/v1/github-readme-stats/api/pin/?username=rebuildup&repo=my-web-2026&show_owner=true)](https://github.com/rebuildup/my-web-2026)
 
 https://yusuke-kim.com
 
-[![my-web-2025](https://github-readme-stats-fast.vercel.app/api/pin/?username=rebuildup&repo=my-web-2025&show_owner=true)](https://github.com/rebuildup/my-web-2025)
+[![my-web-2025](https://rebuildup.dev/api/v1/github-readme-stats/api/pin/?username=rebuildup&repo=my-web-2025&show_owner=true)](https://github.com/rebuildup/my-web-2025)
 
 ### ### Aulymo
 After Effects 全自動リリックモーションスクリプトです
@@ -33,7 +33,7 @@ https://361do.booth.pm/items/6872180
 
 <img src="https://booth.pximg.net/ff9fba29-c4be-437f-bce0-db391d634cd7/i/6872180/5ab61390-8b53-49c7-83aa-2c63c50e3a0a_base_resized.jpg" width="50%" />
 
-[![MultiSlicer](https://github-readme-stats-fast.vercel.app/api/pin/?username=rebuildup&repo=Ae_MultiSlicer&show_owner=true)](https://github.com/rebuildup/Ae_MultiSlicer)
+[![MultiSlicer](https://rebuildup.dev/api/v1/github-readme-stats/api/pin/?username=rebuildup&repo=Ae_MultiSlicer&show_owner=true)](https://github.com/rebuildup/Ae_MultiSlicer)
 
 
 ## ## Links
@@ -44,7 +44,7 @@ https://361do.booth.pm/items/6872180
 
 ## ## status
 
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=rebuildup)](https://github.com/pranesh-2005/github-readme-stats-fast)
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rebuildup&layout=compact)](https://github.com/Pranesh-2005/github-readme-stats)
+[![Pranesh's GitHub stats](https://rebuildup.dev/api/v1/github-readme-stats/api?username=rebuildup)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Top Langs](https://rebuildup.dev/api/v1/github-readme-stats/api/top-langs/?username=rebuildup&layout=compact)](https://github.com/Pranesh-2005/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=rebuildup)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![GitHub Streak](https://rebuildup.dev/api/v1/github-readme-stats/api/streak?username=rebuildup)](https://github.com/pranesh-2005/github-readme-stats-fast)

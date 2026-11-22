@@ -13,11 +13,11 @@ my-web-2025から移行中です
 
 https://rebuildup.dev
 
-[![my-web-2026](https://rebuildup.dev/api/v1/github-readme-stats/api/pin/?repo=my-web-2026)](https://github.com/rebuildup/my-web-2026)
+[![my-web-2026](https://rebuildup.dev/api/v1/github-readme-stats/api/pin/?username=rebuildup&repo=my-web-2026&show_owner=true)](https://github.com/rebuildup/my-web-2026)
 
 https://yusuke-kim.com
 
-[![my-web-2025](https://rebuildup.dev/api/v1/github-readme-stats/api/pin/?repo=my-web-2025)](https://github.com/rebuildup/my-web-2025)
+[![my-web-2025](https://rebuildup.dev/api/v1/github-readme-stats/api/pin/?username=rebuildup&repo=my-web-2025&show_owner=true)](https://github.com/rebuildup/my-web-2025)
 
 ### ### Aulymo
 After Effects 全自動リリックモーションスクリプトです
@@ -33,7 +33,7 @@ https://361do.booth.pm/items/6872180
 
 <img src="https://booth.pximg.net/ff9fba29-c4be-437f-bce0-db391d634cd7/i/6872180/5ab61390-8b53-49c7-83aa-2c63c50e3a0a_base_resized.jpg" width="50%" />
 
-[![MultiSlicer](https://rebuildup.dev/api/v1/github-readme-stats/api/pin/?repo=Ae_MultiSlicer)](https://github.com/rebuildup/Ae_MultiSlicer)
+[![MultiSlicer](https://rebuildup.dev/api/v1/github-readme-stats/api/pin/?username=rebuildup&repo=Ae_MultiSlicer&show_owner=true)](https://github.com/rebuildup/Ae_MultiSlicer)
 
 
 ## ## Links
@@ -44,7 +44,7 @@ https://361do.booth.pm/items/6872180
 
 ## ## status
 
-[![GitHub stats](https://rebuildup.dev/api/v1/github-readme-stats/api)](https://github.com/rebuildup/my-web-2026)
-[![Top Langs](https://rebuildup.dev/api/v1/github-readme-stats/api/top-langs/)](https://github.com/rebuildup/my-web-2026)
+[![GitHub stats](https://rebuildup.dev/api/v1/github-readme-stats/api?username=rebuildup)](https://github.com/rebuildup/my-web-2026)
+[![Top Langs](https://rebuildup.dev/api/v1/github-readme-stats/api/top-langs/?username=rebuildup&layout=compact)](https://github.com/rebuildup/my-web-2026)
 
-[![GitHub Streak](https://rebuildup.dev/api/v1/github-readme-stats/api/streak)](https://github.com/rebuildup/my-web-2026)
+[![GitHub Streak](https://rebuildup.dev/api/v1/github-readme-stats/api/streak?username=rebuildup)](https://github.com/rebuildup/my-web-2026)

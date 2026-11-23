@@ -18,12 +18,12 @@ After Effects tools · Web apps · Motion design
 ## Selected work
 
 <div align="center">
-<a href="https://rebuildup.dev/portfolio"><img src="https://rebuildup.dev/github-profile/reel.webp" width="640" alt="Selected work reel — MultiSlicer, FlashBeat, ugoita, usoto, Isogasii"></a><br>
-<sub><b><a href="https://rebuildup.dev/portfolio/multislicer">MultiSlicer</a></b> · <b><a href="https://rebuildup.dev/portfolio/flashbeat">FlashBeat</a></b> · <b><a href="https://rebuildup.dev/portfolio/ugoita">うごいた</a></b> · <b><a href="https://rebuildup.dev/portfolio/usoto">うそと</a></b> · <b><a href="https://rebuildup.dev/portfolio/isogasii-demo">Isogasii</a></b> — full cases on <a href="https://rebuildup.dev/portfolio">rebuildup.dev/portfolio</a></sub>
+<a href="https://rebuildup.dev/portfolio"><img src="https://rebuildup.dev/github-profile/reel.webp" width="640" alt="Selected work reel — MultiSlicer, FlashBeat, ugoita, usoto, Shinkansen"></a><br>
+<sub><b><a href="https://rebuildup.dev/portfolio/multislicer">MultiSlicer</a></b> · <b><a href="https://rebuildup.dev/portfolio/flashbeat">FlashBeat</a></b> · <b><a href="https://rebuildup.dev/portfolio/ugoita">うごいた</a></b> · <b><a href="https://rebuildup.dev/portfolio/usoto">うそと</a></b> · <b><a href="https://rebuildup.dev/portfolio/shinkansen">Shinkansen</a></b> — full cases on <a href="https://rebuildup.dev/portfolio">rebuildup.dev/portfolio</a></sub>
 </div>
 
 ## Now
 
-<img src="https://rebuildup.dev/api/v1/github-profile/now" width="720" alt="GitHub contributions, streak, top language, activity and Discord presence">
+<img src="https://rebuildup.dev/api/v1/github-profile/now" width="720" alt="GitHub contributions, streak, top language, recent activity, declared focus and Discord presence">
 
 <sub>Contributions · streaks · top language · activity · Discord — observation times are drawn inside the image.</sub>

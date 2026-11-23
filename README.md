@@ -6,7 +6,7 @@ After Effects tools · Web apps · Motion design
 
 <div align="center">
 <a href="https://rebuildup.dev/portfolio/my-web-2025"><img src="https://rebuildup.dev/github-profile/works/my-web-2025.webp" width="720" alt="my-web-2025 — personal web platform"></a><br>
-<sub><b><a href="https://rebuildup.dev/portfolio/my-web-2025">my-web-2025</a></b> — this site. Portfolio, activity feed, tools.</sub>
+<sub><b><a href="https://rebuildup.dev/portfolio/my-web-2025">my-web-2025</a></b> — previous version of this site. Portfolio, activity feed, tools (Next.js / GCP).</sub>
 </div>
 
 <table><tr>

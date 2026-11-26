@@ -4,7 +4,10 @@ After Effects tools · Web apps · Video — design&nbsp;×&nbsp;code&nbsp;×&nb
 
 ## Selected work
 
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://rebuildup.dev/github-profile/showcase-light.webp">
 <img src="https://rebuildup.dev/github-profile/showcase.webp" width="800" alt="Selected work showcase — animated relay of ProtoType, FlashBeat, MultiSlicer, Aulymo, FoldLayers, うごいた, homura and 高専プロコン PV">
+</picture>
 
 <table>
 <tr>

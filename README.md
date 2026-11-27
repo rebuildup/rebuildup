@@ -39,10 +39,38 @@ All works → <a href="https://rebuildup.dev/portfolio">rebuildup.dev/portfolio<
 ## Profile
 
 <picture>
-<source media="(max-width: 767px) and (prefers-color-scheme: dark)" srcset="https://rebuildup.dev/api/v1/github-profile/profile?layout=mobile&theme=dark">
-<source media="(max-width: 767px)" srcset="https://rebuildup.dev/api/v1/github-profile/profile?layout=mobile&theme=light">
-<source media="(prefers-color-scheme: dark)" srcset="https://rebuildup.dev/api/v1/github-profile/profile?theme=dark">
-<img src="https://rebuildup.dev/api/v1/github-profile/profile?theme=light" width="800" alt="Profile — identity, GitHub activity and technology stack in one composition">
+<source media="(max-width: 767px) and (prefers-color-scheme: dark)" srcset="https://rebuildup.dev/api/v1/github-profile/identity?layout=mobile&theme=dark">
+<source media="(max-width: 767px)" srcset="https://rebuildup.dev/api/v1/github-profile/identity?layout=mobile&theme=light">
+<source media="(prefers-color-scheme: dark)" srcset="https://rebuildup.dev/api/v1/github-profile/identity?theme=dark">
+<img src="https://rebuildup.dev/api/v1/github-profile/identity?theme=light" width="800" alt="Profile — avatar, name and Discord presence">
+</picture>
+
+<picture>
+<source media="(max-width: 767px) and (prefers-color-scheme: dark)" srcset="https://rebuildup.dev/api/v1/github-profile/vitals?layout=mobile&theme=dark">
+<source media="(max-width: 767px)" srcset="https://rebuildup.dev/api/v1/github-profile/vitals?layout=mobile&theme=light">
+<source media="(prefers-color-scheme: dark)" srcset="https://rebuildup.dev/api/v1/github-profile/vitals?theme=dark">
+<img src="https://rebuildup.dev/api/v1/github-profile/vitals?theme=light" width="800" alt="GitHub vitals — streak, contributions and stars">
+</picture>
+
+<picture>
+<source media="(max-width: 767px) and (prefers-color-scheme: dark)" srcset="https://rebuildup.dev/api/v1/github-profile/top-languages?layout=mobile&theme=dark">
+<source media="(max-width: 767px)" srcset="https://rebuildup.dev/api/v1/github-profile/top-languages?layout=mobile&theme=light">
+<source media="(prefers-color-scheme: dark)" srcset="https://rebuildup.dev/api/v1/github-profile/top-languages?theme=dark">
+<img src="https://rebuildup.dev/api/v1/github-profile/top-languages?theme=light" width="800" alt="Top programming languages by repository bytes">
+</picture>
+
+<picture>
+<source media="(max-width: 767px) and (prefers-color-scheme: dark)" srcset="https://rebuildup.dev/api/v1/github-profile/activity-map?layout=mobile&theme=dark">
+<source media="(max-width: 767px)" srcset="https://rebuildup.dev/api/v1/github-profile/activity-map?layout=mobile&theme=light">
+<source media="(prefers-color-scheme: dark)" srcset="https://rebuildup.dev/api/v1/github-profile/activity-map?theme=dark">
+<img src="https://rebuildup.dev/api/v1/github-profile/activity-map?theme=light" width="800" alt="GitHub activity map — repositories and recent events">
+</picture>
+
+<picture>
+<source media="(max-width: 767px) and (prefers-color-scheme: dark)" srcset="https://rebuildup.dev/api/v1/github-profile/stack?layout=mobile&theme=dark">
+<source media="(max-width: 767px)" srcset="https://rebuildup.dev/api/v1/github-profile/stack?layout=mobile&theme=light">
+<source media="(prefers-color-scheme: dark)" srcset="https://rebuildup.dev/api/v1/github-profile/stack?theme=dark">
+<img src="https://rebuildup.dev/api/v1/github-profile/stack?theme=light" width="800" alt="Technology stack">
 </picture>
 
 <sub>Skill icons by <a href="https://github.com/tandpfun/skill-icons">tandpfun/skill-icons</a> (MIT).</sub>

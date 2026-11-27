@@ -4,16 +4,37 @@ After Effects tools · Web apps · Video — design&nbsp;×&nbsp;code&nbsp;×&nb
 
 ## Selected work
 
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://rebuildup.dev/github-profile/showcase-light.webp">
 <img src="https://rebuildup.dev/github-profile/showcase.webp" width="800" alt="Selected work showcase — animated relay of ProtoType, FlashBeat, MultiSlicer, Aulymo, FoldLayers, うごいた, homura and 高専プロコン PV">
+</picture>
 
-- [ProtoType](https://rebuildup.dev/portfolio/prototype) — WebGL typing game
-- [FlashBeat](https://rebuildup.dev/portfolio/flashbeat) — Unity rhythm game · U-16 技術賞・企業賞
-- [MultiSlicer](https://rebuildup.dev/portfolio/multislicer) — AE image-slice effect plugin
-- [Aulymo](https://rebuildup.dev/portfolio/aulymo-v02) — automatic lyric-motion AE script
-- [FoldLayers](https://rebuildup.dev/portfolio/foldlayers) — AE group-layer visibility plugin
-- [うごいた](https://rebuildup.dev/portfolio/ugoita) — illustration animation
-- [homura](https://rebuildup.dev/portfolio/homura) — song MV
-- [高専プロコン PV](https://rebuildup.dev/portfolio/kosen-procon-pv) — unofficial PV · index at [rebuildup.dev/portfolio](https://rebuildup.dev/portfolio)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<b>Tools &amp; games</b>
+
+<b><a href="https://rebuildup.dev/portfolio/prototype">ProtoType</a></b> — WebGL typing game<br>
+<b><a href="https://rebuildup.dev/portfolio/flashbeat">FlashBeat</a></b> — Unity rhythm game · U-16 技術賞・企業賞<br>
+<b><a href="https://rebuildup.dev/portfolio/multislicer">MultiSlicer</a></b> — AE image-slice effect plugin<br>
+<b><a href="https://rebuildup.dev/portfolio/aulymo-v02">Aulymo</a></b> — automatic lyric-motion AE script<br>
+<b><a href="https://rebuildup.dev/portfolio/foldlayers">FoldLayers</a></b> — AE group-layer visibility plugin
+
+</td>
+<td width="50%" valign="top">
+
+<b>Motion &amp; video</b>
+
+<b><a href="https://rebuildup.dev/portfolio/ugoita">うごいた</a></b> — illustration animation<br>
+<b><a href="https://rebuildup.dev/portfolio/homura">homura</a></b> — song MV<br>
+<b><a href="https://rebuildup.dev/portfolio/kosen-procon-pv">高専プロコン PV</a></b> — unofficial PV<br>
+<br>
+All works → <a href="https://rebuildup.dev/portfolio">rebuildup.dev/portfolio</a>
+
+</td>
+</tr>
+</table>
 
 ## Profile
 

@@ -67,10 +67,10 @@ All works → <a href="https://rebuildup.dev/portfolio">rebuildup.dev/portfolio<
 </picture>
 
 <picture>
-<source media="(max-width: 767px) and (prefers-color-scheme: dark)" srcset="https://rebuildup.dev/api/v1/github-profile/stack?layout=mobile&theme=dark">
-<source media="(max-width: 767px)" srcset="https://rebuildup.dev/api/v1/github-profile/stack?layout=mobile&theme=light">
-<source media="(prefers-color-scheme: dark)" srcset="https://rebuildup.dev/api/v1/github-profile/stack?theme=dark">
-<img src="https://rebuildup.dev/api/v1/github-profile/stack?theme=light" width="800" alt="Technology stack">
+<source media="(max-width: 767px) and (prefers-color-scheme: dark)" srcset="https://rebuildup.dev/github-profile/stack/dark-mobile.svg">
+<source media="(max-width: 767px)" srcset="https://rebuildup.dev/github-profile/stack/light-mobile.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://rebuildup.dev/github-profile/stack/dark-desktop.svg">
+<img src="https://rebuildup.dev/github-profile/stack/light-desktop.svg" width="800" alt="Technology stack">
 </picture>
 
 <sub>Skill icons by <a href="https://github.com/tandpfun/skill-icons">tandpfun/skill-icons</a> (MIT).</sub>
